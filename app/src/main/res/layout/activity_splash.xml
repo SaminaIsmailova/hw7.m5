@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/colin"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.example.weather.view.SplashActivity">
+
+    <ImageView
+        android:layout_width="212dp"
+        android:layout_height="140dp"
+        android:layout_gravity="center"
+        android:src="@drawable/img" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sky_navigator"
+        android:textSize="26sp"
+        android:fontFamily="@font/campton_light_demo"
+        android:textColor="#191818"
+        android:textAlignment="center"
+        android:layout_marginTop="50dp"
+        />
+
+
+</LinearLayout>

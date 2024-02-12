@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Weatherr</string>
+    <string name="get_weather">get weather</string>
+    <string name="bishkek">Bishkek</string>
+    <string name="sky_navigator">Sky Navigator : \n Plan your day with confidence</string>
+    <string name="city">Bishkek</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="_10054">10054</string>
+    <string name="sunset">Sunset</string>
+    <string name="_10540">10540</string>
+    <string name="sea">Sea</string>
+    <string name="_100">100</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="_3_33">3.33</string>
+    <string name="conditions">Conditions</string>
+    <string name="rain">Rain</string>
+    <string name="humidity">Humidity</string>
+    <string name="_70">70</string>
+    <string name="february_10_2024">February 10 2024</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="min_00">Min : 00 °С</string>
+    <string name="max_00">Max : 00 °С</string>
+    <string name="rainn">RAIN</string>
+    <string name="_31">31</string>
+    <string name="today">Today</string>
+</resources>
